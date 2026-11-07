@@ -308,5 +308,5 @@ The biggest difference from Lecture 1 is that these queries do more than just fi
 
 # Appendix
 
-- Published report on GitHub Pages
+- [Published report on GitHub Pages](https://itsnik1.github.io/bigquery-lecture-2/)
 - [GitHub repository](https://github.com/itsnik1/bigquery-lecture-2)
